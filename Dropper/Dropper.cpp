@@ -17,4 +17,4 @@ int main() {
     ShellExecute(NULL, "open", "C:\\Windows\\System64\\run.bat",
         NULL, NULL, SW_HIDE);
     return 0;
-}
+} 
